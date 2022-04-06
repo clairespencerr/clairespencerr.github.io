@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About Claire Spencer</title>
+      <link>/about/</link>
+      <pubDate>Tue, 05 Apr 2022 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>My name is Claire Spencer, and I am a sophomore at the University of Nebraska-Lincoln. I am majoring in broadcasting and sports media &amp;amp; communications with a minor in film studies. I hope to work with professional sports teams doing video content production and media creating in the future.</description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
       <link>/2020/12/01/hello-r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
@@ -26,15 +35,6 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <guid>/2016/12/30/a-plain-markdown-post/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
-    </item>
-    
-    <item>
-      <title>About Claire Spencer</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hello my name is Claire Spencer.</description>
     </item>
     
     <item>
